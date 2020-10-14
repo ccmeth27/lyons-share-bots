@@ -1,1 +1,1 @@
-worker: node stocktwits.js
+worker: npm start
