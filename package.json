@@ -1,7 +1,7 @@
 {
-  "name": "Stocktwits",
-  "description": "Stocktwits discord bot",
-  "version": "0.0.0",
+  "name": "stocktwits",
+  "description": "stocktwits discord bot",
+  "version": "1.0.0",
   "main": "stocktwits.js",
   "scripts": {
     "start": "node stocktwits.js"
