@@ -1,25 +1,13 @@
 {
-
-    "name": "Stocktwits",
-  
-    "description": "Stocktwits discord bot",
-  
-    "version": "0.0.0",
-  
-    "main": "stocktwits.js",
-  
-    "scripts": {
-  
-      "start": "node stocktwits.js"
-  
-    },
-  
-    "dependencies": {
-  
-      "discord.js": "11.1.0",
-  
-      "request": "2.81.0"
-  
-    }
-  
+  "name": "Stocktwits",
+  "description": "Stocktwits discord bot",
+  "version": "0.0.0",
+  "main": "stocktwits.js",
+  "scripts": {
+    "start": "node stocktwits.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "request": "2.81.0"
   }
+}
